@@ -60,6 +60,7 @@ public class LevelSetup : BaseBehavior
         var camHeight = height / 2;
         mainCamera.orthographicSize = camHeight;
         // TODO add safe area
+        // TODO balance rows/col counts
     }
 
     private int OptimizedRowCount

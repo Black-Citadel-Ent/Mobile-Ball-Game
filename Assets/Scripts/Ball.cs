@@ -6,11 +6,15 @@ public class Ball : BaseBehavior
     [SerializeField] private Sprite[] spriteList;
     [SerializeField] private SpriteRenderer spriteRenderer;
 
+    private IBall.LocationStatus _status;
+
     private void Start()
     {
         rootObject.MapInner(this);
         UpdateBall();
     }
+
+    public IBall.LocationStatus Status => _status;
 
     public void UpdateBall()
     {

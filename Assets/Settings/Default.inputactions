@@ -1,0 +1,46 @@
+{
+    "name": "Default",
+    "maps": [
+        {
+            "name": "InGame",
+            "id": "da137bff-0c12-454d-a62b-be1d02205a0c",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Value",
+                    "id": "87d9746c-e8a2-4b68-abad-d5ffb1f281bc",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2ec20687-bfae-4475-915f-257d215b3217",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Touch",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Touch",
+            "bindingGroup": "Touch",
+            "devices": [
+                {
+                    "devicePath": "<Touchscreen>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
