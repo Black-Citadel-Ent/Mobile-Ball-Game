@@ -40,7 +40,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 250
+    spritePixelsToUnits: 238
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -105,7 +105,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 255
+      x: 506
       y: 4
       width: 237
       height: 236
@@ -117,7 +117,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 255, y: 4}
+    uvTransform: {x: 506, y: 4}
     spritePosition: {x: 393, y: 394}
   - name: Ball 02
     originalName: 
@@ -126,8 +126,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 255
-      y: 248
+      x: 751
+      y: 4
       width: 237
       height: 236
     spriteID: 921f51f94fc3647b7aa411fd4f630e32
@@ -138,7 +138,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 255, y: 248}
+    uvTransform: {x: 751, y: 4}
     spritePosition: {x: 393, y: 394}
   - name: Ball 03
     originalName: 
@@ -147,8 +147,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 255
-      y: 492
+      x: 4
+      y: 250
       width: 237
       height: 236
     spriteID: 5e6f7b439934e48808fcf4737d54e5b5
@@ -159,7 +159,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 255, y: 492}
+    uvTransform: {x: 4, y: 250}
     spritePosition: {x: 393, y: 394}
   - name: Ball 04
     originalName: 
@@ -168,8 +168,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 255
-      y: 736
+      x: 249
+      y: 250
       width: 237
       height: 236
     spriteID: 8c55d91cae05d4d509f99f71b3e8ddde
@@ -180,7 +180,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 255, y: 736}
+    uvTransform: {x: 249, y: 250}
     spritePosition: {x: 393, y: 394}
   - name: Ball 05
     originalName: 
@@ -189,8 +189,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 500
-      y: 4
+      x: 494
+      y: 250
       width: 237
       height: 236
     spriteID: 0de5174973d6a459ca81a750b2a195de
@@ -201,7 +201,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 500, y: 4}
+    uvTransform: {x: 494, y: 250}
     spritePosition: {x: 393, y: 394}
   - name: Ball 06
     originalName: 
@@ -210,8 +210,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 500
-      y: 248
+      x: 739
+      y: 250
       width: 237
       height: 236
     spriteID: 1aa2f391eb75e414bb0ae1f137a37135
@@ -222,7 +222,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 500, y: 248}
+    uvTransform: {x: 739, y: 250}
     spritePosition: {x: 393, y: 394}
   - name: Ball 07
     originalName: 
@@ -231,8 +231,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 500
-      y: 492
+      x: 4
+      y: 494
       width: 237
       height: 236
     spriteID: 46ec528e4713f41eaa52a871f5ebf32a
@@ -243,7 +243,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 500, y: 492}
+    uvTransform: {x: 4, y: 494}
     spritePosition: {x: 393, y: 394}
   - name: Ball 08
     originalName: 
@@ -252,8 +252,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 500
-      y: 736
+      x: 249
+      y: 494
       width: 237
       height: 236
     spriteID: 8007f4ab7a4d943208267b9570d78ce8
@@ -264,7 +264,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 500, y: 736}
+    uvTransform: {x: 249, y: 494}
     spritePosition: {x: 393, y: 394}
   - name: Ball 09
     originalName: 
@@ -273,8 +273,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 745
-      y: 4
+      x: 494
+      y: 494
       width: 237
       height: 236
     spriteID: 30386bc0e950d4909a1311e12c01fcb0
@@ -285,7 +285,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 745, y: 4}
+    uvTransform: {x: 494, y: 494}
     spritePosition: {x: 393, y: 394}
   - name: Ball 10
     originalName: 
@@ -294,8 +294,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 745
-      y: 248
+      x: 739
+      y: 494
       width: 237
       height: 236
     spriteID: 8609a1b5004d04d24a027eb918d5f677
@@ -306,9 +306,9 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 745, y: 248}
+    uvTransform: {x: 739, y: 494}
     spritePosition: {x: 393, y: 394}
-  - name: Tube
+  - name: Tube Bottom
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -318,8 +318,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 243
-      height: 952
-    spriteID: 51106bd1aa4b945d08d4663874d4ba50
+      height: 238
+    spriteID: 349b1426c3ce941cab06b8ec3385f1c9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -328,7 +328,49 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-    spritePosition: {x: 390, y: 36}
+    spritePosition: {x: 390, y: 392}
+  - name: Tube Center
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 4
+      width: 243
+      height: 238
+    spriteID: 8f2209538c1a6405aae890db6bacc579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 4}
+    spritePosition: {x: 390, y: 393}
+  - name: Tube Top
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 738
+      width: 261
+      height: 22
+    spriteID: 26c7d94a6cdd74544813ac6e5006b21c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 738}
+    spritePosition: {x: 381, y: 490}
   rigSpriteImportData:
   - name: Ball 01
     originalName: 
@@ -672,7 +714,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 8cdd4640f51d34dea8fb59d19cdcadd9
     layerID: 13
-    mosaicPosition: {x: 255, y: 4}
+    mosaicPosition: {x: 506, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -682,7 +724,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 921f51f94fc3647b7aa411fd4f630e32
     layerID: 12
-    mosaicPosition: {x: 255, y: 248}
+    mosaicPosition: {x: 751, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -692,7 +734,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 5e6f7b439934e48808fcf4737d54e5b5
     layerID: 11
-    mosaicPosition: {x: 255, y: 492}
+    mosaicPosition: {x: 4, y: 250}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -702,7 +744,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 8c55d91cae05d4d509f99f71b3e8ddde
     layerID: 10
-    mosaicPosition: {x: 255, y: 736}
+    mosaicPosition: {x: 249, y: 250}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -712,7 +754,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 0de5174973d6a459ca81a750b2a195de
     layerID: 9
-    mosaicPosition: {x: 500, y: 4}
+    mosaicPosition: {x: 494, y: 250}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -722,7 +764,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 1aa2f391eb75e414bb0ae1f137a37135
     layerID: 8
-    mosaicPosition: {x: 500, y: 248}
+    mosaicPosition: {x: 739, y: 250}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -732,7 +774,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 46ec528e4713f41eaa52a871f5ebf32a
     layerID: 7
-    mosaicPosition: {x: 500, y: 492}
+    mosaicPosition: {x: 4, y: 494}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -742,7 +784,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 8007f4ab7a4d943208267b9570d78ce8
     layerID: 6
-    mosaicPosition: {x: 500, y: 736}
+    mosaicPosition: {x: 249, y: 494}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -752,7 +794,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 30386bc0e950d4909a1311e12c01fcb0
     layerID: 5
-    mosaicPosition: {x: 745, y: 4}
+    mosaicPosition: {x: 494, y: 494}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -762,17 +804,37 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 8609a1b5004d04d24a027eb918d5f677
     layerID: 4
-    mosaicPosition: {x: 745, y: 248}
+    mosaicPosition: {x: 739, y: 494}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Tube
-    spriteName: Tube
+  - name: Tube Bottom
+    spriteName: Tube Bottom
     isGroup: 0
     parentIndex: -1
-    spriteID: 51106bd1aa4b945d08d4663874d4ba50
-    layerID: 3
+    spriteID: 349b1426c3ce941cab06b8ec3385f1c9
+    layerID: 16
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tube Center
+    spriteName: Tube Center
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8f2209538c1a6405aae890db6bacc579
+    layerID: 17
+    mosaicPosition: {x: 255, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tube Top
+    spriteName: Tube Top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 26c7d94a6cdd74544813ac6e5006b21c
+    layerID: 20
+    mosaicPosition: {x: 4, y: 738}
     flatten: 0
     isImported: 1
     isVisible: 1
